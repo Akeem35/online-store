@@ -1,4 +1,5 @@
 # online-store
+<<<<<<< HEAD
 
 > My striking Nuxt.js project
 
@@ -20,3 +21,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+An online store using nuxtjs
+>>>>>>> 446861a0f67242c3d399f8a0cfb7213ed68d68bf
